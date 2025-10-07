@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Artifacts
+artifacts/
+*.pkl
+*.pth
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Models (too large)
+artifacts/models/
+artifacts/cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

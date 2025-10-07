@@ -1,0 +1,3 @@
+# model and app configuration
+model:
+  name: "base-model"

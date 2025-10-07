@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+streamlit
+fastapi
+uvicorn
+pydantic
+langdetect
+babel
+pyyaml
+tqdm
