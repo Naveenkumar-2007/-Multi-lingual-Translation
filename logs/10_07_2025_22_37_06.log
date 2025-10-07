@@ -1,0 +1,12 @@
+[2025-10-07 22:37:44,543] 149 tensorflow - WARNING - From C:\Users\navee\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2025-10-07 22:42:52,074] 15 root - INFO - facebook/mbart-large-50-many-to-many-mmt
+[2025-10-07 22:42:54,668] 1732 huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-10-07 22:50:31,550] 1732 huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+[2025-10-07 22:50:39,475] 15 root - INFO - facebook/mbart-large-50-many-to-many-mmt
+[2025-10-07 22:50:47,802] 15 root - INFO - facebook/mbart-large-50-many-to-many-mmt
+[2025-10-07 22:58:49,702] 53 root - INFO - Translated: en -> es
+[2025-10-07 22:58:58,353] 53 root - INFO - Translated: en -> te
+[2025-10-07 23:00:09,973] 53 root - INFO - Translated: en -> te
+[2025-10-07 23:00:36,019] 53 root - INFO - Translated: en -> te
+[2025-10-07 23:01:21,769] 53 root - INFO - Translated: en -> te
